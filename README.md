@@ -1,1 +1,1 @@
-# tb-minigame
+https://jhowsef.github.io/tb-minigame/jogohtml
